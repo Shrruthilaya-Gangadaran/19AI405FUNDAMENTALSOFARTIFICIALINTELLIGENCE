@@ -1,4 +1,6 @@
 # Exp no 01 : IMPLEMENT DEPTH FIRST SEARCH TRAVERSAL OF A GRAPH
+## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## AIM:
 To Implement Depth First Search Traversal of a Graph using Python 3.
 ## THEORY:
