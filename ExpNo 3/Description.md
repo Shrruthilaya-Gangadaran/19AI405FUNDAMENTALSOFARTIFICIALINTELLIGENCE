@@ -176,6 +176,8 @@ print(graph)
 aStarAlgo('A', 'G')
 ```
 ## OUTPUT:
-![](output1.png)
+![output3](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/45bcdead-31ff-48d1-b447-d31f2f364f0f)
+
+
 ## RESULT:
 Thus, a Graph was constructed and implementation ofA* search algorithm for the same graph was done successfully.
