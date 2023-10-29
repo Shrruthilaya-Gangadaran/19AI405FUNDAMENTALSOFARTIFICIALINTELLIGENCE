@@ -1,4 +1,6 @@
 # Exp no 03 : IMPLEMENT A* SEARCH ALGORITHM FOR A GRAPH 
+## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## AIM:
 To Implement A * Search algorithm for a Graph using Python 3.
 ## ALGORITHM: 
@@ -67,9 +69,6 @@ G 0 <br>
 Path found: ['A', 'E', 'D', 'G']
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
-
-REGISTER NUMBER : 212221230097
 ```PYTHON
 from collections import defaultdict
 H_dist ={}
