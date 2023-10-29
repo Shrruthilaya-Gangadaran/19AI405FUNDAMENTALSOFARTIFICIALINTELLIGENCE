@@ -121,7 +121,8 @@ traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 ```
 ## OUTPUT:
-![output1](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/75c8940d-2eda-4be6-8ef8-5ee09f9b77a9)
+
+![output2](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/71542dc4-83c3-47f1-9e3e-8fe329dd62c6)
 
 
 ## RESULT:
