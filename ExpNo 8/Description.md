@@ -146,7 +146,8 @@ while(player):
         break
 ```
 ## OUTPUT:
-![](output1.png)
+![output8](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/e6664aab-9da3-4946-be9f-0c684cc6a24c)
+
 
 ## RESULT:
 
