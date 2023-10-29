@@ -114,6 +114,8 @@ else:
     print("No solution found.")
 ```
 ## OUTPUT:
-![](output1.png)
+![output7](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/b0ccb342-7f65-46f4-81ff-5411bc10209e)
+
+
 ## RESULT:
 <p> Thus, a Crypt Arithmetic Problem was solved using Python successfully.</p>
