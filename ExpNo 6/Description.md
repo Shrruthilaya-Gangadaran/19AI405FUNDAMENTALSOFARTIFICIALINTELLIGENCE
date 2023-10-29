@@ -1,4 +1,6 @@
 # Exp no 06 : IMPLEMENT ALPHA-BETA PRUNING OF MIN-MAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME 
+## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## AIM:
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 ## GOALS OF ALPHA-BETA PRUNING IN MIN-MAX SEARCH ALGORITHM:
@@ -30,9 +32,6 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
-
-REGISTER NUMBER : 212221230097
 ```PYTHON
 import time
 
