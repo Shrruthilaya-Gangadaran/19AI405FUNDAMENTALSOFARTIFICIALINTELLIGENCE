@@ -105,7 +105,8 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
  ```
 ## OUTPUT:
-![](output1.png)
+![output1](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/75445562-50ae-4c9c-b289-12d5d8b0c518)
+
 
 ## RESULT:
 
