@@ -219,7 +219,9 @@ if __name__ == "__main__":
     main()
 ```
 ## OUTPUT:
-![](output1.png)
+![output6](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/4ac958c6-eee6-4041-b4cc-4365bd3ec2d4)
+
+
 ## RESULT:
 Thus, implemention of Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game was done successfully.
 
