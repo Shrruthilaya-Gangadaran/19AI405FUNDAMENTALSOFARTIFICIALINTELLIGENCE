@@ -81,7 +81,8 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 ## OUTPUT:
-![](output1.png)
+![output4](https://github.com/AshwinRaaj/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427047/8905333a-f38f-4b63-a57d-9a8da3d07ded)
+
 
 ## RESULT:
 thus, implementation of Simple Hill Climbing Algorithm using python is executed successfully.
