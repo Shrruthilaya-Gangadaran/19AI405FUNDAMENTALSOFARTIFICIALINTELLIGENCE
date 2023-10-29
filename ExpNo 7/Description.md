@@ -1,4 +1,6 @@
 # Exp no 07 : SOLVE CRYPT ARITHMETIC PROBLEM, A CSP(CONSTRAINT SATISFACTION PROBLEM)
+## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## AIM:
 
    To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -79,9 +81,6 @@ MONEY = 10652<br>
 <hr>
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
-
-REGISTER NUMBER : 212221230097
 ```PYTHON
 from itertools import permutations
 
