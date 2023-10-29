@@ -1,4 +1,6 @@
 # Exp no 04 : IMPLEMENT SIMPLE HILL CLIMBING ALGORITHM
+## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## AIM:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration.
 ## THEORY:
@@ -39,9 +41,6 @@ Feedback is provided in terms of heuristic function
 <hr>
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
-
-REGISTER NUMBER : 212221230097
 ```PYTHON
 import random
 import string
